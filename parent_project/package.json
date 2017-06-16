@@ -1,0 +1,19 @@
+{
+  "name": "repro-eslint-issue-8738",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drugan/repro-eslint-issue-8738.git"
+  },
+  "author": "drugan",
+  "license": "ISC",
+  "homepage": "https://github.com/eslint/eslint/issues/8738",
+  "dependencies": {
+    "eslint": "^4.0.0"
+  }
+}

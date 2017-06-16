@@ -1,0 +1,7 @@
+{
+  "extends": "eslint:recommended",
+  "rules": {
+    "array-bracket-spacing": [1, "always"],
+    "no-compare-neg-zero": 1
+  }
+}
